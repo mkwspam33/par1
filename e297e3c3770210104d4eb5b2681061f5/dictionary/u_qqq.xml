@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Qqq" max_length="40" name="u_qqq" type="collection">
+        <element label="Q1" max_length="40" name="u_q1" type="string"/>
+        <element label="Q2" max_length="40" name="u_q2" type="string"/>
+    </element>
+</database>
