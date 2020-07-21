@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Wwq" max_length="40" name="u_wwq" type="collection">
-        <element label="Pppp1" max_length="40" name="u_pppp1" type="string"/>
-    </element>
-</database>

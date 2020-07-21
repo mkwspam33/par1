@@ -60,7 +60,7 @@
         <update_guid_history>ae0923076d0210109ea63ac921edc240:-144968169</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">a3a9e707770210104d4eb5b268106135</sys_audit_delete>
+        <sys_audit_delete display_value="u_xyz1.par1_user">a3a9e707770210104d4eb5b268106135</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-21 17:57:56</sys_created_on>
