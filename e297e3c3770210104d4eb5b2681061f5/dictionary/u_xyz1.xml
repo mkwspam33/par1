@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Xyz1" max_length="40" name="u_xyz1" type="collection">
-        <element label="Aaa" max_length="40" name="u_aaa" type="string"/>
-        <element label="Bbb" max_length="40" name="u_bbb" type="string"/>
-    </element>
-</database>
